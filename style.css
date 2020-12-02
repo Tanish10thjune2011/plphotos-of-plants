@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: aqua;
+    
+}
+
+img{
+    width: 800px;
+    height: 500px;
+    border-style: dashed;
+    border-width: 10px;
+    border-color: blueviolet;
+}
